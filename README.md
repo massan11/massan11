@@ -1,11 +1,11 @@
-# 🚀 Hi, I'm Massan!  
+# Hi, I'm Massan!  
 🔹 Passionate about Python, automation, and real-world problem-solving.  
 🔹 Currently working on **practical Python projects** to simulate real job experiences.  
 🔹 Learning advanced programming concepts & contributing to open-source.  
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 ✅ **Programming:** Python  
 ✅ **Tools & Version Control:** Git, GitHub  
 ✅ **Concepts:** Object-Oriented Programming (OOP), Parallel Processing, CLI Development  
@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 Current Projects  
+## Current Projects  
 ### 🔹 [Python Job Simulation](https://github.com/massan11/Python-Job-Simulation)  
 *A structured learning project to simulate real-world Python development.*  
 
@@ -30,7 +30,7 @@ A simple API integration project that fetches weather data using Python.
 
 ---
 
-## 📜 Certifications & Courses  
+## Certifications & Courses  
 🎓 **Python Specialization - 219 Hours** ([Certificate](https://maktabkhooneh.org/certificates/MK-JCHN93))  
 🎓 [Advanced Python Programming](https://maktabkhooneh.org/certificates/mk-a9rzrf)  
 🎓 [Python Programming for Beginners](https://maktabkhooneh.org/certificates/MK-NRE1MT)  
@@ -40,19 +40,19 @@ A simple API integration project that fetches weather data using Python.
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 ![Massan's GitHub stats](https://github-readme-stats.vercel.app/api?username=massan11&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=massan11&layout=compact)](https://github.com/massan11)  
 
 ---
 
-### 🌍 **Connect with Me**
+### **Connect with Me**
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-kazemi-1a5833351/)  
 - 💬 Email: mhassan.zoho@glail.com
 
 ---
 
-### ✅ Next Steps:  
+### Next Steps:  
 - Continue **real-world Python projects** to strengthen skills.  
 - Improve knowledge in **API development & automation**.  
 - Keep adding **valuable projects** to GitHub.  
