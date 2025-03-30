@@ -5,7 +5,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ✅ **Programming:** Python  
 ✅ **Backend Development:** RESTful APIs, Django (in progress)  
 ✅ **Tools & Version Control:** Git, GitHub, Docker (in progress)  
@@ -13,11 +13,11 @@
 ✅ **Libraries & Frameworks:** FastAPI, Flask, Requests  
 ✅ **Other Skills:** Task Automation, API Integration, CLI Development  
 
-📌 *Currently expanding my knowledge in Django, Docker, and database management.*  
+ *Currently expanding my knowledge in Django, Docker, and database management.*  
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 ### 🔹 [Employee Data Manager](https://github.com/massan11/employee-data-manager)  
 A CRUD application to manage employee records,Part of a SQL learning journey.  
 
@@ -74,7 +74,7 @@ A simple API integration project fetching weather data using Python.
 
 ---
 
-### ✅ Next Steps:  
+### Next Steps:  
 - Deepen **Django & API development** skills.  
 - Continue building **real-world Python projects**.  
 - Expand knowledge in **SQL, Docker, and backend engineering**.  
