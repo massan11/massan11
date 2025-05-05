@@ -27,7 +27,7 @@ A RESTful API for **financial transaction analysis**, handling data processing a
 ### 🔹 [RESTful API Exercise](https://github.com/massan11/restful-api-exercise)  
 A **practice project** for designing RESTful APIs using FastAPI, following best practices.  
 
-### 🔹 [Python Job Simulation](https://github.com/massan11/Python-Job-Simulation)  
+### 🔹 [Python Projects Lab](https://github.com/massan11/python-projects-lab/tree/main)  
 *A structured learning project to simulate real-world Python development.*  
 
 **Key Components:**  
